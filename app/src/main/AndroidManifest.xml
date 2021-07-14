@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.simplexapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/simplex_square"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/simplex_rounded"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Simplex.App">
+        <activity android:name=".activities.SplashScreenActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activities.JsonParserActivity" />
+        <activity android:name=".activities.SharedPreferencesActivity" />
+        <activity android:name=".activities.AlbumPhotoDetailsActivity" />
+        <activity android:name=".activities.AlbumPhotoListActivity" />
+        <activity android:name=".activities.DrawerLayoutActivity" />
+        <activity android:name=".activities.WebViewActivity" />
+        <activity android:name=".activities.DynamicFragmentHolderActivity" />
+        <activity android:name=".activities.StaticFragmentHolderActivity" />
+        <activity android:name=".activities.ListViewActivity" />
+        <activity android:name=".activities.ProductsGridViewActivity" />
+        <activity android:name=".activities.FoodListViewActivity" />
+        <activity android:name=".activities.BeautyAndBeastActivity" />
+        <activity android:name=".activities.CheckoutPageActivity" />
+        <activity android:name=".activities.LoginFormActivity" />
+        <activity android:name=".activities.MainActivity" />
+    </application>
+
+</manifest>
