@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/silver"
+    tools:context=".activities.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnLoginForm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:text="Login Form"
+            android:textSize="22sp"
+            android:textAllCaps="false"
+            android:textColor="@color/gold"
+            android:background="@color/lightBlack" />
+
+        <Button
+            android:id="@+id/btnCheckoutPage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:text="Checkout Page"
+            android:textSize="22sp"
+            android:textAllCaps="false"
+            android:textColor="@color/gold"
+            android:background="@color/lightBlack" />
+
+        <Button
+            android:id="@+id/btnBeautyAndBeast"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:text="Beauty and Beast"
+            android:textSize="22sp"
+            android:textAllCaps="false"
+            android:textColor="@color/gold"
+            android:background="@color/lightBlack" />
+
+        <Button
+            android:id="@+id/btnListViewActivity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:text="ListView Example"
+            android:textSize="22sp"
+            android:textAllCaps="false"
+            android:textColor="@color/gold"
+            android:background="@color/lightBlack" />
+
+        <Button
+            android:id="@+id/btnFoodListView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:text="Food ListView"
+            android:textSize="22sp"
+            android:textAllCaps="false"
+            android:textColor="@color/gold"
+            android:background="@color/lightBlack" />
+
+        <Button
+            android:id="@+id/btnProductsGridView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:text="Products GridView"
+            android:textSize="22sp"
+            android:textAllCaps="false"
+            android:textColor="@color/gold"
+            android:background="@color/lightBlack" />
+
+        <Button
+            android:id="@+id/btnStaticFragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:text="Static Fragment"
+            android:textSize="22sp"
+            android:textAllCaps="false"
+            android:textColor="@color/gold"
+            android:background="@color/lightBlack" />
+
+        <Button
+            android:id="@+id/btnDynamicFragment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:text="Dynamic Fragment"
+            android:textSize="22sp"
+            android:textAllCaps="false"
+            android:textColor="@color/gold"
+            android:background="@color/lightBlack" />
+
+        <Button
+            android:id="@+id/btnDrawerLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:text="Drawer Layout"
+            android:textSize="22sp"
+            android:textAllCaps="false"
+            android:textColor="@color/gold"
+            android:background="@color/lightBlack" />
+
+        <Button
+            android:id="@+id/btnAlbumPhotoAPI"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:text="Album Photo API"
+            android:textSize="22sp"
+            android:textAllCaps="false"
+            android:textColor="@color/gold"
+            android:background="@color/lightBlack" />
+
+        <Button
+            android:id="@+id/btnSharedPreferences"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:text="Shared Preferences"
+            android:textSize="22sp"
+            android:textAllCaps="false"
+            android:textColor="@color/gold"
+            android:background="@color/lightBlack" />
+
+        <Button
+            android:id="@+id/btnJsonParser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:text="JSON Parser"
+            android:textSize="22sp"
+            android:textAllCaps="false"
+            android:textColor="@color/gold"
+            android:background="@color/lightBlack" />
+
+        <Button
+            android:id="@+id/btnWebView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:text="WebView Example"
+            android:textSize="22sp"
+            android:textAllCaps="false"
+            android:textColor="@color/gold"
+            android:background="@color/lightBlack" />
+
+    </LinearLayout>
+
+</ScrollView>
