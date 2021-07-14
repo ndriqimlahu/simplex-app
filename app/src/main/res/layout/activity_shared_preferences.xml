@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activities.SharedPreferencesActivity">
+
+    <EditText
+        android:id="@+id/etName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Name" />
+
+    <EditText
+        android:id="@+id/etSurname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Surname" />
+
+    <EditText
+        android:id="@+id/etMoney"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Money" />
+
+    <CheckBox
+        android:id="@+id/checkBoxRemember"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Remember the data" />
+
+    <Button
+        android:id="@+id/btnSaveData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save Data" />
+
+    <Button
+        android:id="@+id/btnClearData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Clear Data" />
+
+    <Button
+        android:id="@+id/btnRetrieveData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Retrieve Data" />
+
+</LinearLayout>
