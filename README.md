@@ -52,9 +52,11 @@ This project started from scratch where I worked and completed, also I made some
 
 This mobile application is based on technologies like below:
 
+* Android Studio
 * Java
 * XML
-* Android Studio
+* Picasso
+* Retrofit
 
 
 <!-- GETTING STARTED -->
