@@ -43,7 +43,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The project called `Simplex App` is an mobile application which is developed for the Android platform. This mobile application is not made for a specific purpose but only have some small tools where you can navigate into them and various pages. In this mobile application you can navigate into different pages which are “Login Form”, “Checkout Page”, “Beauty and Beast”, “ListView Example”, “Food ListView”, “Products GridView”, “Static Fragment”, “Dynamic Fragment”, “Drawer Layout”, “Album Photo API”, “Shared Preferences”, “JSON Parser” and “WebView Example”.
+The project called `Simplex App` is an mobile application which is developed for the Android platform. This application is simple which have different things where it can be explored into various pages. In this mobile application you can navigate into different pages which are “Login Form”, “Checkout Page”, “Beauty and Beast”, “ListView Example”, “Food ListView”, “Products GridView”, “Static Fragment”, “Dynamic Fragment”, “Drawer Layout”, “Album Photo API”, “Shared Preferences”, “JSON Parser” and “WebView Example”.
 
 This project started from scratch where I worked and completed, also I made some improvements in the front-end and back-end side of Mobile Application Development, such as creating of layouts for page, developing and designing the layouts, creating of the activities, creating of the adapters, creating the environment for calling the api for get data, creating of the fragments, creating of the models, creating of the preferences and many more things.
 
@@ -77,7 +77,7 @@ In order to open this mobile application is required to have an IDE (Android Stu
    git clone https://github.com/ndriqimlahu/SimplexApp.git
    ```
 2. Open the repo folder with the Android Studio and click the `MainActivity.java` file.
-3. After that you can run and explore this mobile application with simulator by choosing the `Pixel 2 API 26` device.
+3. After that you can run and explore this mobile application with emulator by choosing the `Pixel 2 API 26` device.
 
 
 <!-- USAGE -->
