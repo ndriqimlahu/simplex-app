@@ -6,7 +6,7 @@
     Ndriçim Lahu
     <br>
     <br>
-    <a href="https://github.com/ndriqimlahu/SimplexApp/raw/master/app/release/app-release.apk">View Demo</a>
+    <a href="https://github.com/ndriqimlahu/SimplexApp/raw/master/app/release/app-release.apk">Download Application</a>
     ·
     <a href="https://github.com/ndriqimlahu/SimplexApp/issues">Report Bug</a>
     ·
