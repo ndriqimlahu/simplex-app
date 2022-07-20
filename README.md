@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="https://github.com/ndriqimlahu/NdriqimLahuPortfolio/blob/main/assets/portfolio/SimplexApp.png" alt="Logo" width="250" height="250">
+  <img src="https://github.com/ndriqimlahu/ndriqim-lahu-portfolio/blob/main/assets/portfolio/SimplexApp.png" alt="Logo" width="250" height="250">
   <h3 align="center">Simplex App</h3>
   <p align="center">
     Ndriçim Lahu
@@ -74,7 +74,7 @@ In order to open this mobile application is required to have an IDE (Android Stu
 
 1. Download the code or Clone the repo:
    ```terminal
-   git clone https://github.com/ndriqimlahu/SimplexApp.git
+   git clone https://github.com/ndriqimlahu/simplex-app.git
    ```
 2. Open the repo folder with the Android Studio and click the `MainActivity.java` file.
 3. After that you can run and explore this mobile application with emulator by choosing the `Pixel 2 API 26` device.
