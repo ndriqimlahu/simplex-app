@@ -6,11 +6,11 @@
     Ndriçim Lahu
     <br>
     <br>
-    <a href="https://github.com/ndriqimlahu/SimplexApp/raw/master/app/release/app-release.apk">Download Application</a>
+    <a href="https://github.com/ndriqimlahu/simplex-app/raw/master/app/release/app-release.apk">Download Application</a>
     ·
-    <a href="https://github.com/ndriqimlahu/SimplexApp/issues">Report Bug</a>
+    <a href="https://github.com/ndriqimlahu/simplex-app/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ndriqimlahu/SimplexApp/issues">Request Feature</a>
+    <a href="https://github.com/ndriqimlahu/simplex-app/issues">Request Feature</a>
   </p>
 </p>
 
@@ -92,14 +92,6 @@ There you can see some useful additional screenshots of how the project looks li
 ## License
 
 Distributed under the Apache License 2.0. See `LICENSE` for more information.
-
-
-<!-- CONTACT -->
-## Contact
-
-**LinkedIn:** https://www.linkedin.com/in/ndriçimlahu
-
-**Mail:** ndriqim_lahu@hotmail.com
 
 
 <!-- SUPPORT -->
