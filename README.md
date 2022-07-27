@@ -84,7 +84,74 @@ In order to open this mobile application is required to have an IDE (Android Stu
 
 There you can see some useful additional screenshots of how the project looks like and how can be used.
 
-* Screenshots will be uploaded soon!
+* Home page (Welcome)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/simplex-app/master/preview/01.1-Home%20page%20(Welcome).png">
+
+* Home page (Check More)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/simplex-app/master/preview/01.2-Home%20page%20(Check%20More).png">
+
+* Login Form and Feedback page
+<img src="https://raw.githubusercontent.com/ndriqimlahu/simplex-app/master/preview/02-Login%20Form%20and%20Feedback%20page.png">
+
+* Checkout page (Products)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/simplex-app/master/preview/03-Checkout%20page%20(Products).png">
+
+* Beauty and Beast page
+<img src="https://raw.githubusercontent.com/ndriqimlahu/simplex-app/master/preview/04-Beauty%20and%20Beast%20page.png">
+
+* Dessert ListView page (Example)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/simplex-app/master/preview/05-Dessert%20ListView%20page%20(Example).png">
+
+* Food ListView page (Example)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/simplex-app/master/preview/06-Food%20ListView%20page%20(Example).png">
+
+* Products GridView page (Example)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/simplex-app/master/preview/07-Products%20GridView%20page%20(Example).png">
+
+* Static Fragment page
+<img src="https://raw.githubusercontent.com/ndriqimlahu/simplex-app/master/preview/08-Static%20Fragment%20page.png">
+
+* Dynamic Fragment page (First)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/simplex-app/master/preview/09.1-Dynamic%20Fragment%20page%20(First).png">
+
+* Dynamic Fragment page (Second)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/simplex-app/master/preview/09.2-Dynamic%20Fragment%20page%20(Second).png">
+
+* Drawer Layout page
+<img src="https://raw.githubusercontent.com/ndriqimlahu/simplex-app/master/preview/10.1-Drawer%20Layout%20page.png">
+
+* Drawer Layout page (Sidebar Menu)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/simplex-app/master/preview/10.2-Drawer%20Layout%20page%20(Sidebar%20Menu).png">
+
+* Drawer Layout page (Option Popup)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/simplex-app/master/preview/10.3-Drawer%20Layout%20page%20(Option%20Popup).png">
+
+* Album Photo API page (List)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/simplex-app/master/preview/11.1-Album%20Photo%20API%20page%20(List).png">
+
+* Album Photo API page (Photo Details)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/simplex-app/master/preview/11.2-Album%20Photo%20API%20page%20(Photo%20Details).png">
+
+* Album Photo API page (Failed Popup)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/simplex-app/master/preview/11.3-Album%20Photo%20API%20page%20(Failed%20Popup).png">
+
+* Shared Preferences page
+<img src="https://raw.githubusercontent.com/ndriqimlahu/simplex-app/master/preview/12.1-Shared%20Preferences%20page.png">
+
+* Shared Preferences page (Save Data)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/simplex-app/master/preview/12.2-Shared%20Preferences%20page%20(Save%20Data).png">
+
+* Shared Preferences page (Clear Data)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/simplex-app/master/preview/12.3-Shared%20Preferences%20page%20(Clear%20Data).png">
+
+* Shared Preferences page (Retrieve Data)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/simplex-app/master/preview/12.4-Shared%20Preferences%20page%20(Retrieve%20Data).png">
+
+* JSON Parser
+<img src="https://raw.githubusercontent.com/ndriqimlahu/simplex-app/master/preview/13-JSON%20Parser.png">
+
+* Google Developers WebView (Example)
+<img src="https://raw.githubusercontent.com/ndriqimlahu/simplex-app/master/preview/14-Google%20Developers%20WebView%20(Example).png">
 
 
 <!-- COPYRIGHT -->
