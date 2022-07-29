@@ -6,8 +6,6 @@
     Ndriçim Lahu
     <br>
     <br>
-    <a href="https://github.com/ndriqimlahu/simplex-app/raw/master/app/release/app-release.apk">Download Application</a>
-    ·
     <a href="https://github.com/ndriqimlahu/simplex-app/issues">Report Bug</a>
     ·
     <a href="https://github.com/ndriqimlahu/simplex-app/issues">Request Feature</a>
