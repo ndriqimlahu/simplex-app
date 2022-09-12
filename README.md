@@ -31,7 +31,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#copyright">Copyright</a></li>
+    <li><a href="#license">License</a></li>
     <li><a href="#support">Support</a></li>
   </ol>
 </details>
@@ -152,10 +152,10 @@ There you can see some useful additional screenshots of how the project looks li
 <img src="https://raw.githubusercontent.com/ndriqimlahu/simplex-app/master/preview/14-Google%20Developers%20WebView%20(Example).png">
 
 
-<!-- COPYRIGHT -->
-## Copyright
+<!-- LICENSE -->
+## License
 
-See the `COPYRIGHT` file for more information.
+See the `LICENSE` file for more information.
 
 
 <!-- SUPPORT -->
