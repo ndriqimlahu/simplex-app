@@ -12,7 +12,7 @@ This mobile application was developed using the following tools, technologies, a
 - **XML**
 - **Picasso**
 - **Retrofit**
-- **JSONPlaceholder Photos API** — [Visit the API](https://jsonplaceholder.typicode.com)
+- **JSONPlaceholder Photos API** — [Reference link](https://jsonplaceholder.typicode.com)
 
 ## Features
 
